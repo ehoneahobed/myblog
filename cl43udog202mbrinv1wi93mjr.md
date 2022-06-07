@@ -1,4 +1,4 @@
-## Write a bash script to count the number of directories in
+## Write a bash script to count the number of directories
 
 If you have a given directory that contains several other subdirectories, how will you know how many subdirectories there are in total?
 
