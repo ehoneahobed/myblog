@@ -120,7 +120,7 @@ int main(void)
 }
 ```
 
-### 3. How to call a function
+## 3. How to call a function
 Calling a function simply means using the function that you have created. To use the function, you just have to bring the name of the function followed by a parenthesis then the expected arguments of the function.
 
 An example in our case can be `sum(2,3)`. With this example, we are going to receive the value `5` wherever we called the function. 
