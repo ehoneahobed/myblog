@@ -32,6 +32,10 @@ The focus of this article will be more on the user defined functions. But the bi
 
 Let's go on to take a look at how one can create and use such user defined functions.
 
+With everything that I am going to share in this post, you will find in this video below which is an ALX peer discussion we had led by myself. So, if you prefer videos, then you can watch this video instead.
+
+%[https://youtu.be/u40rF7zCYaQ]
+
 ## Functions in C programming
 
 To be able to create and use your own custom functions in the C language, you have to understand 3 things. These three things are:
