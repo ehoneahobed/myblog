@@ -151,7 +151,7 @@ In some cases, you would have to set the branch that you want to push it to. We 
 
 - **git merge**: This command is used to merge the changes that were fetched from a remote repository into the local repository.
 
-## Parallel development
+### Parallel development
 Over here I will discuss commands like `git branch`, `git merge`, etc but I am feeling tired now and would like to continue at another time.
 
 Come back later to check for the updates.
