@@ -1,1 +1,162 @@
-IyMgSG93IHRvIGNyZWF0ZSBhIGJhc2ljIERqYW5nbyBQcm9qZWN0IC0gU2V0IHVwCgpJIHN0YXJ0ZWQgbGVhcm5pbmcgYWJvdXQgdXNpbmcgdGhlIERqYW5nbyBmcmFtZXdvcmsgZm9yIHdlYiBkZXZlbG9wbWVudCBhIGZldyBkYXlzIGFnby4gVGhlIGNoYWxsZW5nZSB0aGF0IEkgYW0gaGF2aW5nIGlzIHRyeWluZyB0byByZW1lbWJlciB0aGUgaW5kaXZpZHVhbCBzdGVwcyB1c2VkIHRvIHNldCB1cCB0aGUgcHJvamVjdC4KCkkga25vdyBJIGRvbid0IG5lY2Vzc2FyaWx5IG5lZWQgdG8gbWVtb3JpemUgdGhlIHN0ZXBzLCBidXQgSSBjYW4ndCBrZWVwIGdvaW5nIGJhY2sgdG8gdGhlIFlvdVR1YmUgdHV0b3JpYWxzIGV2ZXJ5IG5vdyBhbmQgdGhlbi4gTW9yZSBpbXBvcnRhbnRseSwgSSBrbm93IEkgYW0gbm90IHRoZSBvbmx5IG9uZSB3aG8gaGFzIHRoaXMgcHJvYmxlbS4KCkkgYW0sIHRoZXJlZm9yZSwgd3JpdGluZyB0aGlzIGFydGljbGUgdGhhdCB3aWxsIGJlIG15IGdvLXRvIGd1aWRlIGFueSB0aW1lIEkgd2FudCB0byBzZXQgdXAgYSBuZXcgcHJvamVjdCB1bnRpbCBJIGZpbmQgdGhlbSBvbiBteSBmaW5nZXIgdGlwcy4KCkRqYW5nbyBpcyBhIFB5dGhvbiBmcmFtZXdvcmsgYW5kIHJlcXVpcmVzIFB5dGhvbiB0byB3b3JrLiBIZW5jZSwgeW91IG5lZWQgdG8gbWFrZSBzdXJlIHlvdSBhbHJlYWR5IGhhdmUgUHl0aG9uIGluc3RhbGxlZCBiZWZvcmUgc3RhcnRpbmcgd2l0aCB0aGlzIHByb2plY3QuIElmIHlvdSBkb24ndCBrbm93IGhvdywgY2hlY2sgb3V0IHRoZSBbb2ZmaWNpYWwgc2l0ZV0oaHR0cHM6Ly9weXRob24ub3JnKS4KCkkgYW0gZ29pbmcgdG8gcHJlc3VtZSB0aGF0IHlvdSBoYXZlIFB5dGhvbiBhbHJlYWR5IGluc3RhbGxlZCBhbmQgcHJvY2VlZCBmcm9tIHRoZXJlLgoKRm9yIHRob3NlIHdobyBkbyBub3Qga25vdywgRGphbmdvIGlzIGEgZnJhbWV3b3JrIHRoYXQgYWxsb3dzIHlvdSB0byBkZXZlbG9wIHdlYnNpdGVzIG9yIHdlYiBhcHBzIHVzaW5nIHRoZSBQeXRob24gbGFuZ3VhZ2UuIEl0IGNvbWVzIG91dCB3aXRoIGEgbG90IG9mIHRoZSB3b3JrIGFscmVhZHkgZG9uZSBmb3IgeW91IGFuZCBoZWxwcyBpbXByb3ZlIHRoZSBzZWN1cml0eSBvZiB5b3VyIHByb2plY3RzLgoKSWYgeW91IGFyZSB0aGVyZWZvcmUgbG9va2luZyBmb3IgYSB3YXkgdG8gYnVpbGQgd2Vic2l0ZXMgb3Igd2ViIGFwcHMgd2l0aCBQeXRob24gKHVzaW5nIERqYW5nbykgdGhlbiB0aGlzIHdpbGwgYmUgYSBnb29kIHN0YXJ0aW5nIHBvaW50IGZvciB5b3UuCgojIyBTdGVwIDE6IENyZWF0ZSBhIHZpcnR1YWwgZW52aXJvbm1lbnQgZm9yIHlvdXIgcHJvamVjdApBcyBhIERqYW5nbyBkZXZlbG9wZXIsIHlvdSBhcmUgbGlrZWx5IHRvIGRldmVsb3AgYSBudW1iZXIgb2YgRGphbmdvIHByb2plY3RzIGluIHlvdXIgbGlmZS4gQmVjYXVzZSBEamFuZ28gb3IgZXZlbiBQeXRob24ga2VlcHMgYmVpbmcgdXBkYXRlZCB3aXRoIHRpbWUsIHRoZXJlIGlzIGEgcG9zc2liaWxpdHkgb2YgaGF2aW5nIGEgbnVtYmVyIG9mIHByb2plY3RzIHdoaWNoIHVzZSBkaWZmZXJlbnQgRGphbmdvIG9yIFB5dGhvbiB2ZXJzaW9ucy4KCkFsc28sIGZvciBlYWNoIHByb2plY3QsIHlvdSBtYXkgbmVlZCB0byBpbnN0YWxsIHNwZWNpZmljIHBhY2thZ2VzLiBUaGVzZSBwYWNrYWdlcyBhbHNvIGNvbWVzIGluIHZhcmlvdXMgdmVyc2lvbnMsIGFuZCBoZW5jZSBoYXZpbmcgYSB2aXJ0dWFsIGVudmlyb25tZW50IGhlbHBzIHlvdSB0byBpc29sYXRlIHRoZSBwYWNrYWdlcyBmb3IgdGhlIHVzZSBieSB0aGUgcmVzcGVjdGl2ZSBwcm9qZWN0IG9ubHkuCgpJdCBpcyB0aGVyZWZvcmUgcmVjb21tZW5kZWQgdGhhdCB5b3UgZG9uJ3QgaW5zdGFsbCB0aGVzZSBnbG9iYWxseS4gQnkgY3JlYXRpbmcgYSB2aXJ0dWFsIGVudmlyb25tZW50IGZvciBlYWNoIHByb2plY3QsIHlvdSBpc29sYXRlIGVhY2ggcHJvamVjdCBzdWNoIHRoYXQgdGhleSBjYW4gYWxsIGhhdmUgdGhlaXIgb3duIERqYW5nbyB2ZXJzaW9ucyBhbmQgcGFja2FnZXMgd2l0aG91dCBnaXZpbmcgeW91IGFueSBpc3N1ZXMuCgpUbyBjcmVhdGUgdGhlIHZpcnR1YWwgZW52aXJvbm1lbnQsIHlvdSBuZWVkIHRvIGluc3RhbGwgYSBwYWNrYWdlIGNhbGxlZCBgdmlydHVhbGVudmAuIE9wZW4gYSB0ZXJtaW5hbCBvbiB5b3VyIGNvbXB1dGVyIGFuZCB0eXBlIHRoZSBjb2RlIGJlbG93IHRvIGluc3RhbGwgdGhlIHZpcnR1YWwgZW52aXJvbm1lbnQgcGFja2FnZSBpZiB5b3UgZG9uJ3QgYWxyZWFkeSBoYXZlIGl0IGluc3RhbGxlZC4KCmBgYApwaXAgaW5zdGFsbCB2aXJ0dWFsZW52CmBgYAoKT25jZSwgeW91IGhhdmUgdGhpcyBwYWNrYWdlIGluc3RhbGxlZCwgeW91IGNhbiBwcm9jZWVkIHRvIGNyZWF0ZSBhIHZpcnR1YWwgZW52aXJvbm1lbnQgZm9yIHRoZSBwcm9qZWN0IHlvdSBhcmUgYWJvdXQgdG8gc3RhcnQuCgpUbyBjcmVhdGUgYW4gZW52aXJvbm1lbnQsIHR5cGUgdGhlIGNvbW1hbmQgYmVsb3cgaW50byB5b3VyIHRlcm1pbmFsLgpgYGAKdmlydHVhbGVudiBteWJsb2dfZW52CmBgYAoKV2hlcmUgYG15YmxvZ19lbnZgIGlzIHRoZSBuYW1lIHlvdSBhcmUgZ2l2aW5nIHRvIHlvdXIgdmlydHVhbCBlbnZpcm9ubWVudCBhbmQgY2FuIGJlIGNoYW5nZWQgdG8gYW55dGhpbmcgb2YgeW91ciBjaG9pY2UuIEl0J3MgYSBnb29kIHByYWN0aWNlIHRvIGhhdmUgYGVudmAgYXMgcGFydCBvZiB0aGUgbmFtZSBzbyB5b3UgYWx3YXlzIGtub3cgd2hhdCBhbmQgd2h5IHlvdSBoYXZlIHRoYXQgZGlyZWN0b3J5IHdoZW4gY3JlYXRlZC4KCllvdSB3aWxsIG5vdyBoYXZlIGEgbmV3IGRpcmVjdG9yeSBjcmVhdGVkIGNhbGxlZCBgbXlibG9nX2VudmAgYW5kIGhhdmUgYSBmZXcgZmlsZXMgYW5kIGRpcmVjdG9yaWVzIGluIGl0LgoKIyMgU3RlcCAyOiBBY3RpdmF0ZSB5b3VyIHZpcnR1YWwgZW52aXJvbm1lbnQKT25jZSB0aGUgdmlydHVhbCBlbnZpcm9ubWVudCBpcyBjcmVhdGVkLCB5b3Ugd2lsbCBuZWVkIHRvIGFjdGl2YXRlIGl0LiBUaGVyZSBpcyBhIGZpbGUgaW5zaWRlIHRoZSBkaXJlY3RvcnkgdGhhdCB3YXMgY3JlYXRlZCB0aGF0IHlvdSB3aWxsIHVzZSB0byBhY3RpdmF0ZS4gVG8gZG8gdGhhdCwgcnVuIHRoZSBjb21tYW5kIGJlbG93OgpgYGAKc291cmNlIG15YmxvZ19lbnYvYmluL2FjdGl2YXRlCmBgYApJbW1lZGlhdGVseSBhZnRlciB0aGUgYWN0aXZhdGlvbiwgeW91IHdpbGwgZmluZCB0aGF0IHlvdXIgZGVmYXVsdCBwcm9tcHQgb24geW91ciB0ZXJtaW5hbCBoYXMgYSBuZXcgcG9ydGlvbiBhdCB0aGUgYmVnaW5uaW5nLiBUaGUgbmFtZSBvZiB5b3VyIHZpcnR1YWwgZW52aXJvbm1lbnQgd2lsbCBiZSBwdXQgaW4gcGFyZW50aGVzaXMgYW5kIHBsYWNlZCBpbiBmcm9udCBvZiB5b3VyIHRlcm1pbmFsJ3MgcHJvbXB0LgoKU29tZXRoaW5nIGxpa2UgdGhpczoKYGBgYmFzaAoobXlibG9nX2VudikgJDoKYGBgIApOb3RlIHRoYXQgeW91cnMgbWF5IGJlIGEgYml0IGRpZmZlcmVudCBkZXBlbmRpbmcgb24gd2hhdCB5b3VyIG9yaWdpbmFsIHByb21wdCBsb29rZWQgbGlrZSwgYnV0IHlvdSB3aWxsIGhhdmUgdGhlIGAobXlibG9nX2VudilgLiBIYXZpbmcgdGhhdCBpbmRpY2F0ZXMgdGhhdCB5b3VyIHZpcnR1YWwgZW52aXJvbm1lbnQgaXMgYWN0aXZlLiAKCk1ha2Ugc3VyZSB0aGF0IGl0IGlzIGFjdGl2ZSBhbnl0aW1lIHRoYXQgeW91IGFyZSB3b3JraW5nIG9uIHlvdXIgcHJvamVjdC4gQW55dGltZSB0aGF0IHlvdSBmaW5kIGl0IG5vIHRvIGJlIGFjdGl2ZSwgeW91IGp1c3QgaGF2ZSB0byBydW4gdGhlIHNhbWUgY29kZSBhYm92ZSB0byBhY3RpdmF0ZSBpdC4KCkFsc28sIGFueSBwb2ludCBpbiB0aW1lLCB5b3UgY2FuIGRlYWN0aXZhdGUgdGhlIHZpcnR1YWwgZW52aXJvbm1lbnQgYnkganVzdCBydW5uaW5nIHRoZSBgZGVhY3RpdmF0ZWAgY29tbWFuZC4KYGBgYmFzaAoobXlibG9nX2VudikgJDogZGVhY3RpdmF0ZQpgYGAgCiMjIFN0ZXAgMzogSW5zdGFsbCBEamFuZ28KTm93IHRoYXQgd2UgaGF2ZSBvdXIgdmlydHVhbCBlbnZpcm9ubWVudCBzZXQgdXAsIHdlIGNhbiBnbyBhaGVhZCBhbmQgaW5zdGFsbCB0aGUgRGphbmdvIGZyYW1ld29yay4gVG8gaW5zdGFsbCBEamFuZ28sIHJ1biB0aGUgY29tbWFuZCBiZWxvdzoKYGBgYmFzaAoobXlibG9nX2VudikgJDogcGlwIGluc3RhbGwgZGphbmdvCmBgYCAKVGhpcyBpbnN0YWxscyB0aGUgbGF0ZXN0IHN0YWJsZSBEamFuZ28gdmVyc2lvbiBhdmFpbGFibGUuIElmIHlvdSBuZWVkIHRvIGluc3RhbGwgYSBzcGVjaWZpYyBEamFuZ28gdmVyc2lvbiwgdGhlbiB5b3Ugd291bGQgaGF2ZSB0byBpbmRpY2F0ZSB0aGUgZXhhY3QgdmVyc2lvbiB5b3Ugd2FudCB3aGVuIGluc3RhbGxpbmcgaXQuIFlvdSBjYW4gY2hlY2sgb3V0IHRoaXMgaXNzdWUgb24gW3N0YWNrb3ZlcmZsb3cgdG8gc2VlIGhvdyB0byBpbnN0YWxsIGEgc3BlY2lmaWMgdmVyc2lvbiBvZiBEamFuZ29dKGh0dHBzOi8vc3RhY2tvdmVyZmxvdy5jb20vcXVlc3Rpb25zLzMyMjAyODAvaG93LWRvLWktaW5zdGFsbC1hbi1vbGQtdmVyc2lvbi1vZi1kamFuZ28tb24tdmlydHVhbGVudikuCgpPbmNlIHlvdSBoYXZlIERqYW5nbyBpbnN0YWxsZWQsIHlvdSBnZXQgYWNjZXNzIHRvIHRoZSBgZGphbmdvLWFkbWluYCB0b29sIHRoYXQgZW5hYmxlcyB5b3UgdG8gcGVyZm9ybSBzb21lIGltcG9ydGFudCB0YXNrcyBsaWtlIGNyZWF0aW5nIGEgbmV3IERqYW5nbyBwcm9qZWN0LgoKIyMgU3RlcCA0OiBDcmVhdGUvU3RhcnQgYSBEamFuZ28gcHJvamVjdApBZnRlciBpbnN0YWxsaW5nIERqYW5nbywgeW91IG5lZWQgdG8gc3RhcnQgYSBuZXcgRGphbmdvIHByb2plY3QgYW5kIHlvdSBjYW4gZG8gdGhhdCBieSBydW5uaW5nIHRoZSBjb21tbmFuZCBiZWxvdzsKYGBgYmFzaAoobXlibG9nX2VudikgJDogZGphbmdvLWFkbWluIHN0YXJ0cHJvamVjdCBteWJsb2cKYGBgIApXaGVyZSBgbXlibG9nYCBpcyB0aGUgbmFtZSBvZiB0aGUgcHJvamVjdCB5b3UgYXJlIGNyZWF0aW5nLiBUaGlzIGFjdGlvbiB3aWxsIGNyZWF0ZSBhIG5ldyBkaXJlY3RvcnkgY2FsbGVkIGBteWJsb2dgLiBJbnNpZGUgdGhpcyBkaXJlY3RvcnksIHlvdSB3aWxsIGZpbmQgYSBmaWxlIGNhbGxlZCBgbWFuYWdlLnB5YC4gVGhhdCBmaWxlIGlzIHZlcnkgaW1wb3J0YW50IGFuZCB3aWxsIGJlIHVzZWQgZm9yIHJ1bm5pbmcgdmFyaW91cyBhZG1pbmlzdHJhdGl2ZSB0YXNrcyBsaWtlIGluaXRpYWxpemluZyBkYXRhYmFzZXMsIGNyZWF0aW5nIGRhdGFiYXNlcywgY3JlYXRpbmcgYSBzdXBlcnVzZXIgZXRjLgoKSW5zaWRlIHRoaXMgZGlyZWN0b3J5LCB5b3UgYWxzbyBmaW5kIGEgc3ViZGlyZWN0b3J5IHdpdGggdGhlIHNhbWUgbmFtZSAoYG15YmxvZ2AgaW4gbXkgb3duIGNhc2UpLiBJbnNpZGUgdGhlIHN1YmRpcmVjdG9yeSwgeW91IHdpbGwgZmluZCBhYm91dCA1IGRpZmZlcmVudCBmaWxlcy4gRWFjaCBvZiB0aGVtIGhhcyBpdHMgaW1wb3J0YW5jZSBhbmQgbWF5IGNvbWUgaW4gaGFuZHkgaW4gdGhlIGNvdXJzZSBvZiB5b3VyIGRldmVsb3BtZW50LiBXZSB3aWxsIHRoZXJlZm9yZSBsZWFybiBhYm91dCB0aGVtIG9uY2Ugd2UgbmVlZCB0byB1c2UgdGhlbS4KCiMjIFN0ZXAgNTogTWlncmF0ZSB5b3VyIGRhdGFiYXNlCldoZW5ldmVyIHlvdSBjcmVhdGUgYSBuZXcgRGphbmdvIHByb2plY3QgbGlrZSB3ZSBoYXZlIGp1c3QgZG9uZSwgeW91IGF1dG9tYXRpY2FsbHkgaGF2ZSBhbiBhZG1pbiBzaXRlIHNldCB1cCBmb3IgeW91LiBIb3dldmVyLCB3ZSBuZWVkIHRvIHNldCB1cCBvdXIgZGF0YWJhc2UgZm9yIGl0IHRvIHdvcmsuIAoKQnkgZGVmYXVsdCwgRGphbmdvIGlzIGNvbmZpZ3VyZWQgdG8gdXNlIHRoZSBgc3FsaXRlYCBkYXRhYmFzZS4gWW91IGNhbiBhbHdheXMgY2hhbmdlIHRoaXMgdG8gYW55IHR5cGUgb2YgZGF0YWJhc2UgdGhhdCB5b3Ugd2FudCBidXQgZm9yIG5vdyBsZXQncyBrZWVwIHVzaW5nIHdoYXQncyBhbHJlYWR5IGF2YWlsYWJsZS4KClNpbmNlIGEgc2l0ZSBoYXMgYWxyZWFkeSBiZWVuIGNyZWF0ZWQgZm9yIHVzIHdpdGggaXQgcmVzcGVjdGl2ZSBkYXRhYmFzZSBkZXRhaWxzLiBXZSB3aWxsIG5lZWQgdG8gcHV0IHRoYXQgZGF0YWJhc2UgaW4gb3JkZXIuIFdlIGRvIHRoYXQgYnkgbWlncmF0aW5nIHRoZSBkYXRhYmFzZS4KClRvIG1pZ3JhdGUgdGhlIGRhdGFiYXNlLCB3ZSBhcmUgZ29pbmcgdG8gbWFrZSB1c2Ugb2YgdGhlIGBtYW5hZ2UucHlgLiBUbyB1c2UgdGhpcyBmaWxlLCB5b3Ugd3JpdGUgYSBjb21tYW5kIHN0YXJ0aW5nIHdpdGggYHB5dGhvbmAgZm9sbG93ZWQgYnkgYG1hbmdlLnB5IGFuZCB0aGVuIHRoZSBuYW1lIG9mIHRoZSBhY3R1YWwgY29tbWFuZCB5b3Ugd2FudCB0byBleGVjdXRlLgoKU28sIGxldCdzIG9wZW4gdGhlIG5ldyBkaXJlY3RvcnkgdGhhdCB3YXMgY3JlYXRlZCBmb3IgdXMgYmVmb3JlIHJ1bm5pbmcgdGhvc2UgY29tbWFuZHMuCmBgYGJhc2gKKG15YmxvZ19lbnYpICQ6IGNkIG15YmxvZwpgYGAgCk9uY2UgaW5zaWRlIHRoYXQgZGlyZWN0b3J5LCB3ZSBjYW4gZ28gYWhlYWQgYW5kIHJ1biB0aGUgYG1hbmFnZS5weWAgY29tbWFuZHMuIFRoZSBjb21hbmQgZm9yIG1pZ3JhdGluZyBpcyBhcyBmb2xsb3c6CmBgYApweXRob24gbWFuYWdlLnB5IG1pZ3JhdGUKYGBgClJpZ2h0IGFmdGVyIHN1Y2Nlc3NmdWxseSBydW5uaW5nIHRoYXQgc2NyaXB0LCB5b3Ugd2lsbCBub3cgZmluZCBhbiBhZGRpdGlvbmFsIGZpbGUgYGRiLnNxbGl0ZTNgIGluIHlvdXIgcHJvamVjdCBkaXJlY3RvcnkuIFRoYXQgaGFwcGVucyB0byBiZSB5b3VyIGRhdGFiYXNlIGZpbGUuCiAKIyMgU3RlcCA1OiBDcmVhdGUgYSBTdXBlcnVzZXIKTm93LCB0aGF0IHRoZSBkYXRhYmFzZSBpcyBzZXQgdXAsIHdlIG5lZWQgdG8gY3JlYXRlIGEgc3VwZXJ1c2VyIGluIG9yZGVyIHRvIGFjY2VzcyB0aGUgYWRtaW4gc2l0ZS4gV2UgZG8gdGhhdCBhbHNvIHdpdGggdGhlIGBtYW5hZ2UucHlgIGNvbW1hbmRzLiBUaGUgY29tbWFuZCBmb3IgY3JlYXRpbmcgYSBzdXBlciB1c2VyIGlzIGFzIGJlbG93OgpgYGAKcHl0aG9uIG1hbmFnZS5weSBjcmVhdGVzdXBlcnVzZXIKYGBgCllvdSB3aWxsIHRoZW4gYmUgcHJvbXB0ZWQgdG8gdHlwZSB0aGUgZGV0YWlscyBmb3IgdGhlIHN1cGVyIHVzZXIuIFRoZXNlIGRldGFpbHMgaW5jbHVkZToKYGBgClVzZXJuYW1lOgpFbWFpbCBhZGRyZXNzOgpQYXNzd29yZDoKUGFzc3dvcmQgKGFnYWluKToKYGBgCk9uY2UgeW91IHByb3ZpZGUgYWxsIG9mIHRoZSBhYm92ZSBkZXRhaWxzLCB0aGUgc3VwZXJ1c2VyIHdpbGwgYmUgY3JlYXRlZCBzdWNjZXNzZnVsbHkuCgpHcmVhdCB3b3JrIHNvIGZhci4gSW4gb3JkZXIgdG8gc2VlIHdoYXQgd2UgaGF2ZSBjcmVhdGVkIHNvIGZhciwgd2UgbmVlZCB0byBoYXZlIGEgc2VydmVyIHVwIGFuZCBydW5uaW5nLgoKIyMgU3RlcCA2OiBSdW4gdGhlIGRldmVsb3BtZW50IHNlcnZlcgpPbmUgb3RoZXIgYG1hbmFnZS5weWAgY29tbWFuZCBpcyBgcnVuc2VydmVyYCBhbmQgaXQgaGVscHMgdXMgc3RhcnQgYSBkZXZlbG9wbWVudCBzZXJ2ZXIgc28gd2UgY2FuIHByZXZpZXcgdGhlIHByb2plY3Qgd2UgYXJlIHdvcmtpbmcgb24uIFRoZXJlZm9yZSwgdG8gc3RhcnQgdGhlIHNlcnZlciwgcnVuIHRoZSBjb21tYW5kIGJlbG93OgpgYGAKcHl0aG9uIG1hbmFnZS5weSBydW5zZXJ2ZXIKYGBgClRoaXMgY29tbWFuZCBzdGFydHMgYSBsb2NhbCBkZXZlbG9wbWVudCBzZXJ2ZXIgb24gcG9ydCA4MDgwIGJ5IGRlZmF1bHQuIFRoaXMgbWVhbnMgdGhhdCB5b3UgY2FuIG5vdyBhY2Nlc3MgdGhlIHdlYnNpdGUgdGhhdCB5b3UgaGF2ZSBjcmVhdGVkIHdpdGggdGhlIHVybCBgaHR0cHM6Ly8xMjcuMC4wLjA6ODA4MC9gCgpZb3Ugd2lsbCBoYXZlIGFjY2VzcyB0byB0aGUgd2Vic2l0ZSBmb3IgYXMgbG9uZyBhcyB0aGUgc2VydmVyIGlzIG9uLiBBcyBzb29uIGFzIHRoZSBzZXJ2ZXIgaXMgY2xvc2VkLCB5b3UgbG9zZSBhY2Nlc3MgdG8gdGhlIHNpdGUgYW5kIHlvdSBtYXkgaGF2ZSB0byBzdGFydCBpdCBhZ2FpbiBpZiB5b3Ugd2FudCB0by4KClRvIHF1aXQgdGhlIHNlcnZlciwganVzdCB1c2UgdGhlIGtleWJvYXJkIHNob3J0Y3V0LCBgY3RybCArIGNgCgojIyBTdGVwIDc6IFZpZXcgeW91ciB3ZWJzaXRlIGluIGEgYnJvd3NlcgpPbmNlIHRoZSBzZXJ2ZXIgaXMgdXAgYW5kIHJ1bm5pbmcsIGNsaWNrIG9uIHRoZSBsaW5rIG9yIGNvcHkgYW5kIHBhc3RlIHRoZSBsaW5rIGBodHRwczovLzEyNy4wLjAuMDo4MDgwL2AgaW50byBhIGJyb3dzZXIgYW5kIHlvdSB3aWxsIGhhdmUgdGhlIHdlYnNpdGUgc2hvd2luZyBhcyBiZWxvdzoKCiFbZGphbmdvIHdlYnNpdGUud2VicF0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NjU0MTUxOTM2MzMvYnNYek9nWWtsLndlYnAgYWxpZ249ImxlZnQiKQoKIyMgU3RlcCA4OiBMb2cgaW4gdG8gdGhlIGFkbWluIGRhc2hib2FyZApJIGhvcGUgeW91IHN0aWxsIHJlbWVtYmVyIHlvdXIgc3VwZXIgdXNlciBsb2dpbiBkZXRhaWxzIHRoYXQgeW91IHVzZWQ/IE5vdyB5b3UgY2FuIGFjY2VzcyB0aGUgYWRtaW4gZGFzaGJvYXJkIGJ5IHZpc2l0aW5nIHRoZSBhZG1pbiBzaXRlIGFuZCBlbnRlcmluZyB5b3VyIHN1cGVydXNlciBkZXRhaWxzLiBZb3UgY2FuIGFjY2VzcyB0aGUgYWRtaW4gc2l0ZSB3aXRoIHRoZSBzaXRlIGBodHRwczovLzEyNy4wLjAuMDo4MDgwL2FkbWluYC4KCkFmdGVyIHZpc2l0aW5nIHRoYXQgbGluaywgeW91IHdpbGwgZmluZCBzb21ldGhpbmcgbGlrZSBzaG93biBiZWxvdzoKCiFbZGphbmdvIGFkbWluLnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NjU0MTkzNzc3NDYvVENQSTlGZHVNLnBuZyBhbGlnbj0ibGVmdCIpCgpBZnRlciB5b3Ugc3VjY2Vzc2Z1bGx5IGxvZyBpbiwgeW91IHdpbGwgYmUgZ3JlZXRlZCB3aXRoIGEgZGFzaGJvYXJkIHRoYXQgbG9va3MgbGlrZSB0aGUgaW1hZ2Ugc2hvd24gYmVsb3c6CgohW2RqYW5nbyBhZG1pbiBsb2dnZWQgaW4ucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2NTQxOTUzMjc3My9wUFhMcFM3M1oucG5nIGFsaWduPSJsZWZ0IikKCkNvbmdyYXR1bGF0aW9ucyEgWW91IGhhdmUgc3VjY2Vzc2Z1bGx5IHNldCB1cCB5b3VyIGZpcnN0IERqYW5nbyB3ZWJzaXRlLiAKCiMjIFN1bW1hcnkgb2YgYWxsIHRoZSBjb21tYW5kcyB0aGF0IHdlcmUgdXNlZCB0byBzZXQgdXAgdGhlIHByb2plY3QKSGVyZSBpcyBhbiBvcmRlcmVkIGxpc3Qgb2YgYWxsIHRoZSBjb21tYW5kcyB0aGF0IEkgdXNlZCBpbiBzZXR0aW5nIHVwIHRoaXMgRGphbmdvIHByb2plY3QuCmBgYAoxLiBwaXAgaW5zdGFsbCB2aXJ0dWFsZW52CjIuIHZpcnR1YWxlbnYgbXlibG9nX2VudgozLiBzb3VyY2UgbXlibG9nX2Vudi9iaW4vYWN0aXZhdGUKNC4gcGlwIGluc3RhbGwgZGphbmdvCjUuIGRqYW5nby1hZG1pbiBzdGFydHByb2plY3QgbXlibG9nCjYuIHB5dGhvbiBtYW5hZ2UucHkgbWlncmF0ZQo3LiBweXRob24gbWFuYWdlLnB5IGNyZWF0ZXN1cGVydXNlcgo4LiBweXRob24gbWFuYWdlLnB5IHJ1bnNlcnZlcgpgYGAKCiMjIENvbmNsdXNpb24KSnVzdCBhcyBJIHN0YXRlZCBpbiB0aGUgYmVnaW5uaW5nLCB0aGlzIHBvc3QgaXMgZm9jdXNlZCBvbiBzZXR0aW5nIHVwIHRoZSBiYXNpYyBEamFuZ28gd2Vic2l0ZS4gSXQgaXMgdG8gc2VydmUgYXMgYSBxdWljayBndWlkZSB0byBoZWxwIGFueW9uZSB0aGF0IHdhbnRzIHRvIGVhc2lseSByZW1lbWJlciB0aGUgc3RlcHMgZm9yIHNldHRpbmcgdXAgYSBEamFuZ28gcHJvamVjdC4KCk5vdyB0aGF0IHdlIGhhdmUgdGhlIGJhY2tib25lIHNldCB1cCwgSSBjYW4gZ28gYWhlYWQgYW5kIGV4cGxvcmUgbW9yZSBhZHZhbmNlZCBwcm9qZWN0cyBpbiBEamFuZ28uIEFzIEkga2VlcCBsZWFybmluZywgSSB3aWxsIGRvIHdlbGwgdG8gc2hhcmUgc29tZSBvZiB0aGUgcHJvamVjdHMgdGhhdCBJIHdvcmsgb24gaW4gdGhlIGZvcm0gb2YgYmxvZyBwb3N0cyBvciB2aWRlb3MuCgpTbywgZG8gZm9sbG93IHRoaXMgYmxvZyBhbmQgYWxzbyBzdWJzY3JpYmUgdG8gbXkgWW91VHViZSBjaGFubmVsIHRvIGdldCB1cGRhdGVzIHdoZW5ldmVyIEkgcmVsZWFzZSBhIHZpZGVvLgoKSSBpbnZpdGUgeW91IHRvIGNvbm5lY3Qgd2l0aCBtZSB2aWEgdHdpdHRlciBpZiB5b3UgYXJlIGFjdGl2ZSBvbiBUd2l0dGVyIGFuZCBJIHdvdWxkIGxvdmUgdG8gaGVhciBmcm9tIHlvdSBhbmQgaGVhciBhYm91dCB5b3VyIGRldmVsb3BtZW50IGpvdXJuZXkgYXMgd2VsbC4gQWxsIHRoZSBiZXN0Lg==
+# How to create a basic Django Project - Set up
+
+I started learning about using the Django framework for web development a few days ago. The challenge that I am having is trying to remember the individual steps used to set up the project.
+
+I know I don't necessarily need to memorize the steps, but I can't keep going back to the YouTube tutorials every now and then. More importantly, I know I am not the only one who has this problem.
+
+I am, therefore, writing this article that will be my go-to guide any time I want to set up a new project until I find them on my finger tips.
+
+Django is a Python framework and requires Python to work. Hence, you need to make sure you already have Python installed before starting with this project. If you don't know how, check out the [official site](https://python.org).
+
+I am going to presume that you have Python already installed and proceed from there.
+
+For those who do not know, Django is a framework that allows you to develop websites or web apps using the Python language. It comes out with a lot of the work already done for you and helps improve the security of your projects.
+
+If you are therefore looking for a way to build websites or web apps with Python (using Django) then this will be a good starting point for you.
+
+## Step 1: Create a virtual environment for your project
+As a Django developer, you are likely to develop a number of Django projects in your life. Because Django or even Python keeps being updated with time, there is a possibility of having a number of projects which use different Django or Python versions.
+
+Also, for each project, you may need to install specific packages. These packages also comes in various versions, and hence having a virtual environment helps you to isolate the packages for the use by the respective project only.
+
+It is therefore recommended that you don't install these globally. By creating a virtual environment for each project, you isolate each project such that they can all have their own Django versions and packages without giving you any issues.
+
+To create the virtual environment, you need to install a package called `virtualenv`. Open a terminal on your computer and type the code below to install the virtual environment package if you don't already have it installed.
+
+```
+pip install virtualenv
+```
+
+Once, you have this package installed, you can proceed to create a virtual environment for the project you are about to start.
+
+To create an environment, type the command below into your terminal.
+```
+virtualenv myblog_env
+```
+
+Where `myblog_env` is the name you are giving to your virtual environment and can be changed to anything of your choice. It's a good practice to have `env` as part of the name so you always know what and why you have that directory when created.
+
+You will now have a new directory created called `myblog_env` and have a few files and directories in it.
+
+## Step 2: Activate your virtual environment
+Once the virtual environment is created, you will need to activate it. There is a file inside the directory that was created that you will use to activate. To do that, run the command below:
+```
+source myblog_env/bin/activate
+```
+Immediately after the activation, you will find that your default prompt on your terminal has a new portion at the beginning. The name of your virtual environment will be put in parenthesis and placed in front of your terminal's prompt.
+
+Something like this:
+```bash
+(myblog_env) $:
+``` 
+Note that yours may be a bit different depending on what your original prompt looked like, but you will have the `(myblog_env)`. Having that indicates that your virtual environment is active. 
+
+Make sure that it is active anytime that you are working on your project. Anytime that you find it no to be active, you just have to run the same code above to activate it.
+
+Also, any point in time, you can deactivate the virtual environment by just running the `deactivate` command.
+```bash
+(myblog_env) $: deactivate
+``` 
+## Step 3: Install Django
+Now that we have our virtual environment set up, we can go ahead and install the Django framework. To install Django, run the command below:
+```bash
+(myblog_env) $: pip install django
+``` 
+This installs the latest stable Django version available. If you need to install a specific Django version, then you would have to indicate the exact version you want when installing it. You can check out this issue on [stackoverflow to see how to install a specific version of Django](https://stackoverflow.com/questions/3220280/how-do-i-install-an-old-version-of-django-on-virtualenv).
+
+Once you have Django installed, you get access to the `django-admin` tool that enables you to perform some important tasks like creating a new Django project.
+
+## Step 4: Create/Start a Django project
+After installing Django, you need to start a new Django project and you can do that by running the commnand below;
+```bash
+(myblog_env) $: django-admin startproject myblog
+``` 
+Where `myblog` is the name of the project you are creating. This action will create a new directory called `myblog`. Inside this directory, you will find a file called `manage.py`. That file is very important and will be used for running various administrative tasks like initializing databases, creating databases, creating a superuser etc.
+
+Inside this directory, you also find a subdirectory with the same name (`myblog` in my own case). Inside the subdirectory, you will find about 5 different files. Each of them has its importance and may come in handy in the course of your development. We will therefore learn about them once we need to use them.
+
+## Step 5: Migrate your database
+Whenever you create a new Django project like we have just done, you automatically have an admin site set up for you. However, we need to set up our database for it to work. 
+
+By default, Django is configured to use the `sqlite` database. You can always change this to any type of database that you want but for now let's keep using what's already available.
+
+Since a site has already been created for us with it respective database details. We will need to put that database in order. We do that by migrating the database.
+
+To migrate the database, we are going to make use of the `manage.py`. To use this file, you write a command starting with `python` followed by `mange.py and then the name of the actual command you want to execute.
+
+So, let's open the new directory that was created for us before running those commands.
+```bash
+(myblog_env) $: cd myblog
+``` 
+Once inside that directory, we can go ahead and run the `manage.py` commands. The comand for migrating is as follow:
+```
+python manage.py migrate
+```
+Right after successfully running that script, you will now find an additional file `db.sqlite3` in your project directory. That happens to be your database file.
+ 
+## Step 5: Create a Superuser
+Now, that the database is set up, we need to create a superuser in order to access the admin site. We do that also with the `manage.py` commands. The command for creating a super user is as below:
+```
+python manage.py createsuperuser
+```
+You will then be prompted to type the details for the super user. These details include:
+```
+Username:
+Email address:
+Password:
+Password (again):
+```
+Once you provide all of the above details, the superuser will be created successfully.
+
+Great work so far. In order to see what we have created so far, we need to have a server up and running.
+
+## Step 6: Run the development server
+One other `manage.py` command is `runserver` and it helps us start a development server so we can preview the project we are working on. Therefore, to start the server, run the command below:
+```
+python manage.py runserver
+```
+This command starts a local development server on port 8080 by default. This means that you can now access the website that you have created with the url `https://127.0.0.0:8080/`
+
+You will have access to the website for as long as the server is on. As soon as the server is closed, you lose access to the site and you may have to start it again if you want to.
+
+To quit the server, just use the keyboard shortcut, `ctrl + c`
+
+## Step 7: View your website in a browser
+Once the server is up and running, click on the link or copy and paste the link `https://127.0.0.0:8080/` into a browser and you will have the website showing as below:
+
+![django website.webp](https://cdn.hashnode.com/res/hashnode/image/upload/v1665415193633/bsXzOgYkl.webp align="left")
+
+## Step 8: Log in to the admin dashboard
+I hope you still remember your super user login details that you used? Now you can access the admin dashboard by visiting the admin site and entering your superuser details. You can access the admin site with the site `https://127.0.0.0:8080/admin`.
+
+After visiting that link, you will find something like shown below:
+
+![django admin.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665419377746/TCPI9FduM.png align="left")
+
+After you successfully log in, you will be greeted with a dashboard that looks like the image shown below:
+
+![django admin logged in.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665419532773/pPXLpS73Z.png align="left")
+
+Congratulations! You have successfully set up your first Django website. 
+
+## Summary of all the commands that were used to set up the project
+Here is an ordered list of all the commands that I used in setting up this Django project.
+```
+1. pip install virtualenv
+2. virtualenv myblog_env
+3. source myblog_env/bin/activate
+4. pip install django
+5. django-admin startproject myblog
+6. python manage.py migrate
+7. python manage.py createsuperuser
+8. python manage.py runserver
+```
+
+## Conclusion
+Just as I stated in the beginning, this post is focused on setting up the basic Django website. It is to serve as a quick guide to help anyone that wants to easily remember the steps for setting up a Django project.
+
+Now that we have the backbone set up, I can go ahead and explore more advanced projects in Django. As I keep learning, I will do well to share some of the projects that I work on in the form of blog posts or videos.
+
+So, do follow this blog and also subscribe to my YouTube channel to get updates whenever I release a video.
+
+I invite you to connect with me via twitter if you are active on Twitter and I would love to hear from you and hear about your development journey as well. All the best.
