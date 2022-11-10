@@ -189,6 +189,10 @@ This is what I got when I run mine.
 
 Well done. We will continue in part 2 of the series.
 
+**Part 2 available now:**
+
+%[https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-2]
+
 ## Conclusion
 I hope you enjoyed reading this as much as I enjoyed writing it. I look forward to continuing and showing every aspect of building your own shell. As I mentioned earlier, I may also record YouTube videos explaining these concepts.
 
