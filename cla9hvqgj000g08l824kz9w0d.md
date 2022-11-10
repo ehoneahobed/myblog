@@ -85,13 +85,12 @@ To be able to get what the user types, we need to make use of a standard functio
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1667984610620/jQtWE8A9_.png align="left")
 
 From the image above, you can see that the prototype for that function is:
-`ssize_t getline(char **lineptr, size_t *n, FILE *stream)`. We therefore have to add this prototype to our `main.h` file.
+`ssize_t getline(char **lineptr, size_t *n, FILE *stream)`. To be able to have access to the prototype, we need to add the header file `stdio.h` which we have already done.
 
 ```C
 #include <stdio.h>
 #include <stdlib.h>
 
-ssize_t getline(char **lineptr, size_t *n, FILE *stream);
 ```
 
 To be able to use this `getline` function in our `main.c` we will need to create some variables with the respective data types according to the given prototype.
