@@ -1,6 +1,6 @@
 # Building a simple shell in C - Part 3
 
-Our simple shell that we build from parts one and two are only able to show the user a prompt, read what they type, parse it into separate strings, and print the individual strings. It is unfortunately unable to execute the commands that the user types. What is the use of a shell if it cannot execute the command given to it?
+Our simple shell that we build from parts [one](https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-1) and [two](https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-2) are only able to show the user a prompt, read what they type, parse it into separate strings, and print the individual strings. It is unfortunately unable to execute the commands that the user types. What is the use of a shell if it cannot execute the command given to it?
 
 That will be a useless shell, indeed. So, in this part, let's focus on how we can get our shell to execute the commands that are passed to it.
 
@@ -231,6 +231,14 @@ To correct some issues with **segmentation fault** and **double free detected er
 a. Remove the `free()` from the while loop and place it outside just before the `return` statement.
 b. Added `free(lineptr_copy)`
 
+You can check the previous posts out with the links below:
+- Part 1
+
+%[https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-1]
+
+- Part 2
+
+%[https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-2]
 
 ## Conclusion
 Gradually, we are getting close to building a functional miniature version of the Bash shell. All codes are available on GitHub for those who would need it and those who make want to contribute to it as well.
