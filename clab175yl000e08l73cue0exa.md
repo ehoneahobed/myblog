@@ -476,6 +476,10 @@ Go ahead, recompile this code and test it out. Do you get something like this?
 
 Great job. We are finally getting somewhere. Let's continue in the next part.
 
+Check part 3 out with the link below:
+
+%[https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-3]
+
 ## Conclusion
 I hope  you are enjoying the series? I haven't had time to cross check the write-up and the codes. I am opened to your suggestions and comments. Let me know your thoughts on it and suggestions that you have in the comment box.
 
