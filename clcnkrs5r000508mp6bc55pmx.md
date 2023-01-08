@@ -4,7 +4,7 @@ Almost everyone who has ever used the internet has, at least once in the history
 
 Or perhaps what happens within those few seconds to generate the list of search results that Google displays when you search for something. If you have ever been that curious, then let me help demystify that for you.
 
-Instead of just scratching the surface, I am going to get into the technical details so that you get the whole picture and also become technically savvy about how the web works.
+Instead of just scratching the surface, I am going to get into the details so that you get the whole picture and also become technically savvy about how the web works.
 
 Don't worry, I will break everything down as much as possible for you to appreciate it.
 
@@ -37,7 +37,7 @@ Fortunately, all these things happen in a split second, so you hardly ever stop 
 9. Finally, the browser will render the page and display it to you.
     
 
-![](https://imgur.com/a/00fcY8q align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673207975223/5b93253f-fbfe-47a1-8b5d-0be7fc773d51.jpeg align="center")
 
 Do you see the number of things that go on before you finally see anything in your browser? This is even a very summarized version of it to give you an overview of what happens. Now let's take each part and discuss in detail what actually happens.
 
