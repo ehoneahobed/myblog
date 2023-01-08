@@ -37,7 +37,9 @@ Fortunately, all these things happen in a split second, so you hardly ever stop 
 9. Finally, the browser will render the page and display it to you.
     
 
-You see the number of things that go on before you finally see anything in your browser? This is even a very summarized version of it to give you an overview of what happens. Now let's take each part and discuss in detail what actually happens.
+![](https://imgur.com/a/00fcY8q align="center")
+
+Do you see the number of things that go on before you finally see anything in your browser? This is even a very summarized version of it to give you an overview of what happens. Now let's take each part and discuss in detail what actually happens.
 
 ## DNS Request
 
