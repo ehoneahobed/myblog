@@ -104,9 +104,9 @@ After establishing the connection, you will need to be able to run your SQL quer
 
 How will it be possible to write SQL code in Python and expect the Python interpreter to not get confused and not throw errors at you?
 
-To ensure this doesn't happen, the connector that you choose which in our case was `MySQLdb` provides you with a `class` that enables you to write SQL queries in your Python code.
+To ensure this doesn't happen, the connector that you choose which in our case was `MySQLdb` provides you with a `method` that enables you to write SQL queries in your Python code.
 
-This class is called a `cursor`. You, therefore, have to create an instance of the cursor `class` on your connection. Remember that you assigned the outcome of your database connection to a variable (`db_connect` is what we used above -&gt; ie: connection object). The instance of the cursor depends on the connection object that you created. We will also call the instance of the cursor we are creating `db_cursor`.
+This method is called a `cursor`. You, therefore, have to use that method on your connection. Remember that you assigned the outcome of your database connection to a variable (`db_connect` is what we used above -&gt; ie: connection object). We will therefore have to use the `cursor` method on this connection object. Let's assign the output of the cursor method on the connection object to a new variable called `db_cursor`.
 
 The code will therefore look like this:
 
@@ -114,7 +114,7 @@ The code will therefore look like this:
 db_cursor = db_connect.cursor()
 ```
 
-Now that we have an instance of the cursor class, you can go ahead and execute any sort of SQL query. You do that by calling the `execute` method and passing the SQL statement as its argument.
+Now that we have the `db_cursor`\` handler, you can go ahead and execute any sort of SQL query. You do that by calling the `execute` method and passing the SQL statement as its argument.
 
 So, let's assume that our fictitious `bookstore` database has a table called `books`. If we want to select everything from the `books` table, the SQL query will be:
 
@@ -147,7 +147,7 @@ Now, let's put together all the codes. Here is what it looks like:
 # import the mysql connector module
 import MySQLdb as DB
 # establish a database connection
-db_connect = DB.connect(host="localhost", port=3306, user="ehoneah",                  passwd="obed123", db="bookstore")
+db_connect = DB.connect(host="localhost", port=3306, user="ehoneah", passwd="obed123", db="bookstore")
 # create a cursor to enable SQL queries
 db_cursor = db_connect.cursor()
 # execute SQL code
@@ -162,7 +162,7 @@ There are a few more things and best practices that you need to follow when you 
 
 ### Conclusion
 
-I hope you got value from reading this, and I look forward to writing more on the topic and sharing some of the insights I discover through using it.
+I hope you got value from reading this, and I look forward to writing more on the topic and sharing some of the insights I discovered through using it.
 
 If you enjoyed this content and would like to support me, subscribe to my [YouTube channel](https://youtube.com/@ehoneahobed?sub_confirmation=1) for more educational videos and also follow this [blog](http://hashnode.com/@ehoneahobed).
 
