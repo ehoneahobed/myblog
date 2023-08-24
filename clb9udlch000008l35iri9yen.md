@@ -1,4 +1,12 @@
-# How to connect  MySQL database in Python
+---
+title: "How to connect  MySQL database in Python"
+datePublished: Sun Dec 04 2022 20:54:29 GMT+0000 (Coordinated Universal Time)
+cuid: clb9udlch000008l35iri9yen
+slug: how-to-connect-mysql-database-in-python
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670187083067/yb0KwknQD.png
+tags: python, mysql, python3, python-libraries, python-beginner
+
+---
 
 A few weeks ago, I decided to build a phonebook application using Python, and with the help of the Tkinter module, I was able to make a GUI for my application. However, I had a bit of a challenge with storing and manipulating the contacts that I stored.
 
@@ -12,15 +20,15 @@ This specific article will focus on how to connect to the MySQL database and que
 
 This is basically the utility that will help you connect your Python application with the SQL database. There are a few options from which you can choose. The five common ones available are:
 
-1.  MySQLdb
+1. MySQLdb
     
-2.  PyMySQL
+2. PyMySQL
     
-3.  SuperSQLite
+3. SuperSQLite
     
-4.  Psycopg2
+4. Psycopg2
     
-5.  QTSQL
+5. QTSQL
     
 
 The good news is that all of these modules rely on the Python database API (DB-API). As such, once connected to them, the code required to communicate with your database is very similar. So, even though these various database adapters enable you to communicate with databases from different vendors (MySQL, SQLite, PostgreSQL, etc).
@@ -29,7 +37,7 @@ Let's choose one of these adapters and focus on how to connect to your SQL datab
 
 ### How to install MySQLdb
 
-To install `MySQLdb` and make use of it, you need to have `MySQL` already installed. I am using a virtual machine using `Ubuntu` hence let me work you through how you are going to do that on `Ubuntu` . I believe it will be similar for other Linux distros.
+To install `MySQLdb` and make use of it, you need to have `MySQL` already installed. I am using a virtual machine running `Ubuntu` hence let me walk you through how you are going to do that on `Ubuntu` . I believe it will be similar for other Linux distros.
 
 To install `MySQL`, you can run the commands below:
 
@@ -67,15 +75,15 @@ import MySQLdb as DB
 
 After, importing the module, you have to create the actual connection with the help of the `connect` method that comes with the module. This `connect` method takes in the following arguments.
 
-*   Host (`host`)
+* Host (`host`)
     
-*   Port (`port`)
+* Port (`port`)
     
-*   Username (`user`)
+* Username (`user`)
     
-*   Password (`passwd`)
+* Password (`passwd`)
     
-*   Database name (`db`)
+* Database name (`db`)
     
 
 It, therefore, looks like this:
@@ -90,7 +98,7 @@ Assume, you have a MySQL database on your local machine with the name of `bookst
 db_connect = DB.connect(host="localhost", port=3306, user="ehoneah", passwd="obed123", db="bookstore")
 ```
 
-Remember to change the details to the exact details that you used to create your database.
+Remember to change the details to the exact details that you used to create your database. Also take note of the fact that for the password, you need to spell the keyword just as I spelled it in the code `passwd` (that wasn't a typo).
 
 After establishing the connection, you will need to be able to run your SQL queries directly in your Python code. But wait, not so fast...
 
